@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicChecker", "MagicChecker\MagicChecker.csproj", "{8274C3C0-50F2-4D13-B12F-54AE76673CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicChecker.Tests", "MagicChecker.Tests\MagicChecker.Tests.csproj", "{14EE258F-EFD9-41B4-A452-EF99384234B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8274C3C0-50F2-4D13-B12F-54AE76673CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8274C3C0-50F2-4D13-B12F-54AE76673CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8274C3C0-50F2-4D13-B12F-54AE76673CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8274C3C0-50F2-4D13-B12F-54AE76673CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14EE258F-EFD9-41B4-A452-EF99384234B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EE258F-EFD9-41B4-A452-EF99384234B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EE258F-EFD9-41B4-A452-EF99384234B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EE258F-EFD9-41B4-A452-EF99384234B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
